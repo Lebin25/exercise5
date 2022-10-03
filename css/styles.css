@@ -1,3 +1,7 @@
+.bg-primary{
+  background-color: #512DA8!important;
+}
+
 .row-header {
   margin: 0px auto;
   padding: 0px 0px; }
@@ -51,4 +55,22 @@ body {
   right: 0px;
   position: absolute;
   bottom: 0px;
-  z-index: 1; }
+  z-index: 1; 
+}
+
+.navbar-text{
+  cursor: pointer;
+}
+
+.modal .modal-header {
+  background-color: #512DA8;
+  color: floralwhite; }
+  .modal .modal-header button {
+    color: floralwhite; }
+
+.modal .modal-body {
+  background-color: #D1C4E9; }
+
+.modal .modal-footer {
+  background: #9575CD; }
+
